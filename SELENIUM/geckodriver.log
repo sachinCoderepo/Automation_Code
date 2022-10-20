@@ -1,0 +1,131 @@
+1660972977839	geckodriver	INFO	Listening on 127.0.0.1:47735
+1660972978297	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofiledIr6Uf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1660972987162	Marionette	INFO	Marionette enabled
+WebDriver BiDi listening on ws://localhost:37189
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledIr6Uf/search.json.mozlz4", (void 0)))
+console.error: Region.jsm: "Error fetching region" (new AbortError("The operation was aborted. ", (void 0), 765))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 419))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+1660972997533	Marionette	INFO	Listening on port 43105
+Read port: 43105
+1660972997715	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://localhost:37189/devtools/browser/319d2cbc-a9e5-4c13-8a5f-1fdb85db919c
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/#EmptyPage.aspx, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/#EmptyPage.aspx, line 3587: ReferenceError: Sys is not defined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.jsm
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 1969\"  data: no]"
+1660973011346	Marionette	INFO	Stopped listening on port 43105
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664484486935	geckodriver	INFO	Listening on 127.0.0.1:44201
+1664484487393	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileDGXfow"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664484495028	Marionette	INFO	Marionette enabled
+1664484495045	Marionette	INFO	Listening on port 34009
+Read port: 34009
+WebDriver BiDi listening on ws://127.0.0.1:38963
+Read port: 34009
+1664484496957	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDGXfow/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38963/devtools/browser/aa32b1e2-0521-448f-8cfe-d3f09f36007f
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664484619783	Marionette	INFO	Stopped listening on port 34009
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1664484624348	geckodriver	INFO	Listening on 127.0.0.1:55655
+1664484624355	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileizkuLo"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664484626745	Marionette	INFO	Marionette enabled
+1664484626754	Marionette	INFO	Listening on port 38175
+Read port: 38175
+WebDriver BiDi listening on ws://127.0.0.1:38735
+1664484626891	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileizkuLo/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:38735/devtools/browser/1a8915d6-1f3c-4163-9381-aee221b90844
+1664484636407	Marionette	INFO	Stopped listening on port 38175
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664484726152	geckodriver	INFO	Listening on 127.0.0.1:41491
+1664484726158	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "60763" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileqxfSw1"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664484727845	Marionette	INFO	Marionette enabled
+1664484727850	Marionette	INFO	Listening on port 33079
+Read port: 33079
+WebDriver BiDi listening on ws://127.0.0.1:60763
+1664484727986	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileqxfSw1/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:60763/devtools/browser/b3058413-8fa5-4f54-b0b8-f61c1867dbb8
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/, line 3587: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/#EmptyPage.aspx, line 569: ReferenceError: Sys is not defined
+JavaScript error: https://rahulshettyacademy.com/dropdownsPractise/#EmptyPage.aspx, line 3587: ReferenceError: Sys is not defined
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664484741865	Marionette	INFO	Stopped listening on port 33079
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Invalid port. Exiting...
+1664484798073	geckodriver	INFO	Listening on 127.0.0.1:39203
+1664484798080	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33459" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofileJi5viW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664484800197	Marionette	INFO	Marionette enabled
+1664484800202	Marionette	INFO	Listening on port 42169
+Read port: 42169
+WebDriver BiDi listening on ws://127.0.0.1:33459
+1664484800338	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileJi5viW/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:33459/devtools/browser/9400f889-714f-40a2-9eb7-ff3a222a3255
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664484803778	Marionette	INFO	Stopped listening on port 42169
+JavaScript error: resource://activity-stream/lib/ActivityStreamPrefs.jsm, line 27: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIPrefBranch.removeObserver]
+console.warn: services.settings: main/query-stripping sync interrupted by shutdown
+!!! error running onStopped callback: TypeError: callback is not a function
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+console.log: "RemoteSettingsWorker error: AbortError: IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort."
+JavaScript error: resource://gre/modules/ExtensionSettingsStore.jsm, line 121: Error: The ExtensionSettingsStore was accessed before the initialize promise resolved.
+JavaScript error: resource://gre/modules/CrashManager.jsm, line 905: AbortError: IOUtils: Shutting down and refusing additional I/O tasks
+RunWatchdog: Mainthread nested event loops during hang: 
+ --- (no nested event loop active)
+ExceptionHandler::GenerateDump cloned child 6090ExceptionHandler::WaitForContinueSignal waiting for continue signal...
+
+ExceptionHandler::SendContinueSignalToChild sent continue signal to child
+1664485840996	geckodriver	INFO	Listening on 127.0.0.1:53107
+1664485841435	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "35735" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "/tmp/rust_mozprofile39QH4J"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1664485847468	Marionette	INFO	Marionette enabled
+1664485847495	Marionette	INFO	Listening on port 36703
+Read port: 36703
+WebDriver BiDi listening on ws://127.0.0.1:35735
+1664485848486	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile39QH4J/search.json.mozlz4", (void 0)))
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+DevTools listening on ws://127.0.0.1:35735/devtools/browser/9c331067-03af-48a3-99f1-ec02828f8a1d
+Missing chrome or resource URL: resource://gre/modules/UpdateListener.sys.mjs
+console.error: "Error during quit-application-granted: [Exception... \"File error: Not found\"  nsresult: \"0x80520012 (NS_ERROR_FILE_NOT_FOUND)\"  location: \"JS frame :: resource:///modules/BrowserGlue.jsm :: _onQuitApplicationGranted/tasks< :: line 2009\"  data: no]"
+1664485857001	Marionette	INFO	Stopped listening on port 36703
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+Invalid port. Exiting...

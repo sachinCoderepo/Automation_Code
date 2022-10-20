@@ -1,0 +1,27 @@
+2022-08-05 03:25:28,093 : INFO : BaseClass : sachin
+2022-08-05 03:25:28,093 : ERROR : BaseClass : sachin@gmail.com
+2022-08-05 03:26:09,166 : INFO : BaseClass : sachin
+2022-08-05 03:26:09,167 : ERROR : BaseClass : sachin@gmail.com
+2022-08-05 03:26:09,170 : DEBUG : test_logging : print debug statement
+2022-08-05 03:26:09,170 : INFO : test_logging : print the information
+2022-08-05 03:26:09,171 : WARNING : test_logging : print the warning msz
+2022-08-05 03:26:09,171 : ERROR : test_logging : print the error message
+2022-08-05 03:26:09,171 : CRITICAL : test_logging : print remain information
+2022-08-05 03:30:30,407 : INFO : loggerName : sachin
+2022-08-05 03:30:30,408 : ERROR : loggerName : sachin@gmail.com
+2022-08-05 03:31:53,100 : INFO : test_profile : sachin
+2022-08-05 03:31:53,101 : ERROR : test_profile : sachin@gmail.com
+2022-08-05 03:33:17,484 : INFO : test_profile : sachin
+2022-08-05 03:33:17,484 : ERROR : test_profile : sachin@gmail.com
+2022-08-05 03:33:17,487 : DEBUG : test_logging : print debug statement
+2022-08-05 03:33:17,488 : INFO : test_logging : print the information
+2022-08-05 03:33:17,488 : WARNING : test_logging : print the warning msz
+2022-08-05 03:33:17,488 : ERROR : test_logging : print the error message
+2022-08-05 03:33:17,488 : CRITICAL : test_logging : print remain information
+2022-08-06 01:43:15,364 : INFO : test_profile : sachin
+2022-08-06 01:43:15,386 : ERROR : test_profile : sachin@gmail.com
+2022-08-06 01:43:15,393 : DEBUG : test_logging : print debug statement
+2022-08-06 01:43:15,393 : INFO : test_logging : print the information
+2022-08-06 01:43:15,393 : WARNING : test_logging : print the warning msz
+2022-08-06 01:43:15,394 : ERROR : test_logging : print the error message
+2022-08-06 01:43:15,394 : CRITICAL : test_logging : print remain information
