@@ -27,12 +27,12 @@
 
 
 # check the is paildrome or not
-# n="456654"
-# rev=n[::-1]
-# if rev==n:
-#     print("''",rev ,"=",n,"''", "strings are palindeome", end=" ")
-# else:
-#     print("strings are not palidromes")
+n="456654"
+rev=n[::-1]
+if rev==n:
+    print("''",rev ,"=",n,"''", "strings are palindeome", end=" ")
+else:
+    print("strings are not palidromes")
 
 
 

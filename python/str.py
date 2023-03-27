@@ -152,6 +152,10 @@
 
 
 
+
+
+
+
 # r = 0
 # n = int(input("enter numbers for reverse:"))
 # while n>0:
@@ -194,14 +198,15 @@
 
 
 # def fabonecci(num):
-#     fab ,fab2 =0,1
+#     fab ,a =0,1
 #     for i in range(num+1):
 #         print(fab, end = ",")
-#         f =fab+fab2
-#         fab = fab2
-#         fab2=f
+#         f =fab+a
+#         fab = a
+#         a=f
 
-# fabonecci(10)
+# fabonecci(6)
+
 
 
 
@@ -282,4 +287,67 @@
 
  
 
+# def fabonecci(num):
+#     fab = 0
+#     add = 1
+#     for i in range(num+1):
+#         print(fab, end= ",")
+#         sum = fab+add
+#         fab = add
+#         add = sum
+# fabonecci(7)
+
+
+
+# num = 12356
+# while num >0:
+#     rev =num%10
+#     print(rev ,end="")
+#     num = num//10
+
+
+
+
+# for i in range(6):
+#     print("* "*i)
+    
+
+# for i in range(6):
+#     for j in range(i):
+#         print(i ,end=" ")
+#     print(" ")
+
+
+
+
+def fabo(num):
+    val = 1
+    fab =0
+    for i in range(num+1):
+        print(fab , end = ",")
+        sum = val+fab
+        val =fab
+        fab = sum       
+
+fabo(6)
+
+
+def factorial(num):
+    fact = 1
+    for i in range(1,num+1):
+        fact= fact*i
+    return fact
+
+print(factorial(5))
+
+
+def prime(num):
+    for i in range(2,int(num/2)+1):
+        if num%i == 0:
+            print("not prime")
+            break
+    else:
+        print("prime")
+
+prime(23)
 

@@ -1,3 +1,11 @@
+import json
 
-l ="amazing the wonder the oj makr is the value of marse can bi inhrteaddk "
-print(l.replace the , sachin)
+f = open('sample2.json')
+
+data = json.load(f)
+
+for i in data["phoneNumbers"]:
+	print(i)
+
+# Closing file
+f.close()

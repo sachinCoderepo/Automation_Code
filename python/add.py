@@ -11,7 +11,7 @@
 
 # WAP to print good if even and odd numers are equal
 
-n = 254367
+n = 2543336722
 even = 0
 odd = 0
 while n > 0:

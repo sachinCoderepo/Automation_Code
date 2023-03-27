@@ -37,9 +37,22 @@ print("sorted array is ")
 printArray(arr)
 
 
+def quickSort(arr):
+    # Write your code here
+    left=[]
+    right=[]
+    pivot=arr[0]
+    for i in range(1, len(arr)):
+        if arr[i]<pivot:
+            left.append(arr[i])
+        elif arr[i]>pivot:
+            right.append(arr[i])
+            
+            
+    return left + [pivot] + right 
 
 
 
 
-
-    
+arr=[22,66,99,11,33,0,44,100,2,200,3,600,400]   
+print(quickSort(arr))

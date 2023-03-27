@@ -9,10 +9,3 @@ if flage:
 else:
     print("number is not prime")
 
-# num = int(input("inter a number : "))
-# for i in range(2,int(num/2)+1):
-# 	if num % i ==0:
-# 		print(num, "is not a prime number")
-# 		break		
-# else:
-# 	print(num, "is a prime number")

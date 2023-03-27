@@ -14,22 +14,23 @@
 
 
 class Company:
-    def employee(self,name ,post,salary):
-        self.name = name
-        self.post =post
-        self.salary = salary
-        print( salary ,name ,post)
-
-
-class Student(Company):
-
     def details(self , name ,post):
         self.name = name
         self.post = post
         print( name ,post)
 
+    
 
-c = Company()
+
+class Student(Company):
+    def employee(self,name ,post,salary):
+        self.name = name
+        self.post =post
+        self.salary = salary
+        print( salary ,name ,post)
+    
+
+# c = Company()
 s = Student()
 s.details("suraj", "tester")
 s.employee("sachin" , "devloper", 50000)
