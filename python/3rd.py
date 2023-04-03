@@ -20,12 +20,15 @@ ar = [10, 20, 20, 10, 10, 30, 50, 10, 20]
 
 
 def prime(n):
+    if n<=1:
+        return False
     for i in range(2,int(n/2)+1):
-
         if n%i ==0:
-            print("Not prime")
-            break
+            return False
     else:
-        print("prime")
-
-prime(29)
+        return True
+n = 2
+if prime(n):
+    print("prime")
+else:
+    print("not prime")
